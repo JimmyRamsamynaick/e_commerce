@@ -3,9 +3,9 @@ import React, { useState } from 'react';
 import Header from './components/header';
 import ProductsPage from './pages/productspage';
 import CartPage from './pages/cartpage';
-import CheckoutPage from './pages/CheckoutPage';
-import LoginPage from './pages/LoginPage';
-import ContactPage from './pages/ContactPage';
+import CheckoutPage from './pages/checkoutpage';
+import LoginPage from './pages/loginpage';
+import ContactPage from './pages/contactpage';
 import AdminPage from './pages/adminpage';
 import Footer from './components/footer';
 
