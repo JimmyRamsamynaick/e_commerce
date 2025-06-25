@@ -74,7 +74,7 @@ http://localhost:5173
 Tu peux déployer cette app sur Vercel, Netlify ou tout hébergeur supportant React/Vite.
 👨‍💻 Auteur
 
-Développé par Jimmy RAMSAMYNAÏCK dans le cadre d’un projet web complet avec React.
+Développé par Jimmy RAMSAMYNAÏCK dans le cadre d’un projet web complet avec React. \
 📄 Licence
 
 Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus d’informations.
