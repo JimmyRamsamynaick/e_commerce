@@ -31,20 +31,20 @@ Ce dépôt contient un site e-commerce complet développé avec React, Tailwind 
 
     Formspree : traitement du formulaire de contact
 
-📁 Structure du projet
-ecommerce-app/
-├── public/
-│   └── index.html             # Point d'entrée HTML
-├── src/
-│   ├── App.jsx               # Composant principal
-│   ├── index.js              # Point d'entrée React
-│   ├── styles.css            # Fichier Tailwind
-│   ├── components/           # Header, Footer
-│   └── pages/                # Pages : Products, Cart, Checkout, Contact, Login, Admin
-├── tailwind.config.js
-├── postcss.config.js
-├── vite.config.js
-└── package.json
+📁 Structure du projet \
+ecommerce-app/ \
+├── public/ \
+│   └── index.html             # Point d'entrée HTML \
+├── src/ \
+│   ├── App.jsx               # Composant principal \
+│   ├── index.js              # Point d'entrée React \
+│   ├── styles.css            # Fichier Tailwind \
+│   ├── components/           # Header, Footer \
+│   └── pages/                # Pages : Products, Cart, Checkout, Contact, Login, Admin \
+├── tailwind.config.js \
+├── postcss.config.js \
+├── vite.config.js \
+└── package.json \
 ⚙️ Installation et lancement
 
     Clone le projet :
