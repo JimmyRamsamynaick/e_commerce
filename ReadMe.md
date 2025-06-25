@@ -36,7 +36,7 @@ Il s'agit d'une maquette fonctionnelle présentant une boutique en ligne avec un
 
 🧑‍💻 Auteur
 
-Développé par Jimmy RAMSAMYNAÏCK dans le cadre d’un projet web.
+Développé par Jimmy RAMSAMYNAÏCK dans le cadre d’un projet web. \
 📄 Licence
 
 Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus d’informations.
