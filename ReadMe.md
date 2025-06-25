@@ -49,7 +49,7 @@ ecommerce-app/ \
 
     Clone le projet :
 
-git clone https://github.com/ton-utilisateur/ecommerce-app.git
+git clone git@github.com:JimmyRamsamynaick/e_commerce.git
 cd ecommerce-app
 
     Installe les dépendances :
