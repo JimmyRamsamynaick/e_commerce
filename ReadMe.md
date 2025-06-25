@@ -6,7 +6,6 @@ Il s'agit d'une maquette fonctionnelle présentant une boutique en ligne avec un
 ## 📦 Fonctionnalités principales
 
 - 🖼️ Présentation de produits
-- 🔍 Affichage dynamique des détails (JS)
 - 🛍️ Ajout au panier simulé
 - 💬 Interface moderne et responsive
 
